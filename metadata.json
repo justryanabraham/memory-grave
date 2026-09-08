@@ -1,0 +1,6 @@
+{
+  "name": "Memory Graveyard",
+  "description": "A vintage arcade-style memorial to anonymously bury past regrets and bad ideas with a fluid zoomable Apple Watch-style staggered graveyard grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
